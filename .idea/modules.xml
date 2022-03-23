@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/endereco-cliente/api-endereco-cliente.iml" filepath="$PROJECT_DIR$/endereco-cliente/api-endereco-cliente.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cep/cep.iml" filepath="$PROJECT_DIR$/cep/cep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/endereco-api.iml" filepath="$PROJECT_DIR$/.idea/endereco-api.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,14 @@
+server:
+  port: 8000
+api:
+  cep:
+    username: ""
+    senha: ""
+spring:
+  kafka:
+    producer:
+      bootstrap-servers: localhost:9092
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+topic:
+  endereco-cliente: topic_endereco_cliente
